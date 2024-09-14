@@ -1,0 +1,6 @@
+Flask
+fpdf
+PyPDF2
+reportlab
+weasyprint
+pdfrw
